@@ -23,7 +23,7 @@ export default defineConfig({
         short_name: 'Jeux',          // Nom court pour l'écran d'accueil
         description: 'Application de recherche de jeux vidéos',
         theme_color: '#ffffff',      // Couleur du thème
-        start_url: '/',              // Page de démarrage
+        start_url: 'https://romainsgn.github.io/games-directory/', // Page de démarrage
         display: 'standalone',       // Mode d'affichage
         background_color: '#ffffff', // Couleur de fond au démarrage
 
